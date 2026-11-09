@@ -5,6 +5,15 @@
     <link>https://ryancooper73.github.io/amperscope-releases/appcast.xml</link>
     <language>en</language>
     <item>
+      <title>Version 1.1.0</title>
+      <pubDate>Mon, 09 Nov 2026 20:34:49 GMT</pubDate>
+      <sparkle:version>74</sparkle:version>
+      <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>New</h3><ul><li>iPhone battery view, connected badge, de/fr strings</li><li>connection monitor and daily health snapshots</li><li>MobileDevice transport and battery parser</li></ul><h3>Fixed</h3><ul><li>address review — trust flow, several iPhones, hung reads, leak</li></ul>]]></description>
+      <enclosure url="https://github.com/ryancooper73/amperscope-releases/releases/download/v1.1.0/Amperscope-1.1.0.dmg" length="4404811" type="application/octet-stream" sparkle:edSignature="JNFjQYLvBd2fJ4BMhXWBOHAHmq2KzVf24JelDBN82hMr362LebMvsnLHwjOhMc27G0loEbsuZXuEteXTHXZ3Aw=="/>
+    </item>
+    <item>
       <title>Version 1.0.4</title>
       <pubDate>Sun, 08 Nov 2026 23:36:32 GMT</pubDate>
       <sparkle:version>54</sparkle:version>
