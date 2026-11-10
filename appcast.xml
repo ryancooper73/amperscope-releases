@@ -5,6 +5,15 @@
     <link>https://ryancooper73.github.io/amperscope-releases/appcast.xml</link>
     <language>en</language>
     <item>
+      <title>Version 1.1.1</title>
+      <pubDate>Tue, 10 Nov 2026 00:33:16 GMT</pubDate>
+      <sparkle:version>77</sparkle:version>
+      <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>Fixed</h3><ul><li>keep recording when other apps try to quit Amperscope</li></ul>]]></description>
+      <enclosure url="https://github.com/ryancooper73/amperscope-releases/releases/download/v1.1.1/Amperscope-1.1.1.dmg" length="4412125" type="application/octet-stream" sparkle:edSignature="tRYIwg+v5da+V0IMqclPdDr2wDQ3LJuVmbMKdtY6W+mkDXDXaZdHL3s8kZnquz90nLRd/eZFOV7iRw2sho+qCQ=="/>
+    </item>
+    <item>
       <title>Version 1.1.0</title>
       <pubDate>Mon, 09 Nov 2026 20:34:49 GMT</pubDate>
       <sparkle:version>74</sparkle:version>
