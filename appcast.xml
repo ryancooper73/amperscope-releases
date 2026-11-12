@@ -5,6 +5,15 @@
     <link>https://ryancooper73.github.io/amperscope-releases/appcast.xml</link>
     <language>en</language>
     <item>
+      <title>Version 1.1.2</title>
+      <pubDate>Thu, 12 Nov 2026 06:56:46 GMT</pubDate>
+      <sparkle:version>80</sparkle:version>
+      <sparkle:shortVersionString>1.1.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>Fixed</h3><ul><li>hour labels step aside while panning and return smoothly</li></ul>]]></description>
+      <enclosure url="https://github.com/ryancooper73/amperscope-releases/releases/download/v1.1.2/Amperscope-1.1.2.dmg" length="4420090" type="application/octet-stream" sparkle:edSignature="AYxdREuY0NGlwtapAslErhyh8VjuRSrMvrujJvo5H6e2wjdyIr/KtmVbDbjDv1ItS9hfrRLeH5MUNUKN5Dt6Bw=="/>
+    </item>
+    <item>
       <title>Version 1.1.1</title>
       <pubDate>Tue, 10 Nov 2026 00:33:16 GMT</pubDate>
       <sparkle:version>77</sparkle:version>
