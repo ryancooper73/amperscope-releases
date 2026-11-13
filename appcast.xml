@@ -5,6 +5,15 @@
     <link>https://ryancooper73.github.io/amperscope-releases/appcast.xml</link>
     <language>en</language>
     <item>
+      <title>Version 1.1.4</title>
+      <pubDate>Fri, 13 Nov 2026 17:31:24 GMT</pubDate>
+      <sparkle:version>87</sparkle:version>
+      <sparkle:shortVersionString>1.1.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>Fixed</h3><ul><li>let &quot;Install and Relaunch&quot; quit Amperscope (quit by hand once to install this update)</li></ul>]]></description>
+      <enclosure url="https://github.com/ryancooper73/amperscope-releases/releases/download/v1.1.4/Amperscope-1.1.4.dmg" length="4447515" type="application/octet-stream" sparkle:edSignature="TFMiw86sO+TiimA07S1Vye2hoLG/ws6OuNR26ccdTCoBuFTn7VtS5WGDgpvYWgz/zaXmPvpLQQGSf9OBtpX/Bw=="/>
+    </item>
+    <item>
       <title>Version 1.1.3</title>
       <pubDate>Fri, 13 Nov 2026 15:24:40 GMT</pubDate>
       <sparkle:version>84</sparkle:version>
