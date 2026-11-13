@@ -5,6 +5,15 @@
     <link>https://ryancooper73.github.io/amperscope-releases/appcast.xml</link>
     <language>en</language>
     <item>
+      <title>Version 1.2.0</title>
+      <pubDate>Fri, 13 Nov 2026 18:13:29 GMT</pubDate>
+      <sparkle:version>91</sparkle:version>
+      <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>New</h3><ul><li>show the last read iPhone, its health history and when it was read while it is unplugged</li></ul><h3>Fixed</h3><ul><li>the iPhone view fills the window and shows no Mac-only toolbar controls</li></ul>]]></description>
+      <enclosure url="https://github.com/ryancooper73/amperscope-releases/releases/download/v1.2.0/Amperscope-1.2.0.dmg" length="4487017" type="application/octet-stream" sparkle:edSignature="Fn4NOGwwIXm6cbVFhiwjfL3lwd2ByHiGwZshth+aJikkStLZr45uRIJXzLrGyA51FpgVDVmzAI8LP+r/M6QaCQ=="/>
+    </item>
+    <item>
       <title>Version 1.1.4</title>
       <pubDate>Fri, 13 Nov 2026 17:31:24 GMT</pubDate>
       <sparkle:version>87</sparkle:version>
