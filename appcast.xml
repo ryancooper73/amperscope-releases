@@ -5,6 +5,15 @@
     <link>https://ryancooper73.github.io/amperscope-releases/appcast.xml</link>
     <language>en</language>
     <item>
+      <title>Version 1.3.0</title>
+      <pubDate>Fri, 13 Nov 2026 21:44:31 GMT</pubDate>
+      <sparkle:version>99</sparkle:version>
+      <sparkle:shortVersionString>1.3.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>New</h3><ul><li>lower chart shows adapter input next to the battery line</li><li>adapter segments, Mac power and discharge rate</li><li>store and export adapter input and the Mac&#x27;s draw</li><li>read adapter input and the Mac&#x27;s draw from PowerTelemetryData</li></ul>]]></description>
+      <enclosure url="https://github.com/ryancooper73/amperscope-releases/releases/download/v1.3.0/Amperscope-1.3.0.dmg" length="4530388" type="application/octet-stream" sparkle:edSignature="zGRhJTvOvTvCGI2dlZQPp/roaSUi3IB5kKRLmnHWmBMlqdPkm/oMZ7Qde/jDuWd9p2teeW7Usg8FDsJzunX7Dg=="/>
+    </item>
+    <item>
       <title>Version 1.2.0</title>
       <pubDate>Fri, 13 Nov 2026 18:13:29 GMT</pubDate>
       <sparkle:version>91</sparkle:version>
