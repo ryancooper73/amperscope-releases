@@ -5,6 +5,15 @@
     <link>https://ryancooper73.github.io/amperscope-releases/appcast.xml</link>
     <language>en</language>
     <item>
+      <title>Version 1.4.0</title>
+      <pubDate>Sat, 14 Nov 2026 20:43:16 GMT</pubDate>
+      <sparkle:version>108</sparkle:version>
+      <sparkle:shortVersionString>1.4.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>New</h3><ul><li>About This Battery section</li><li>say since when the Mac is on battery or plugged in</li><li>read the battery&#x27;s cell maker, serial and revisions</li></ul>]]></description>
+      <enclosure url="https://github.com/ryancooper73/amperscope-releases/releases/download/v1.4.0/Amperscope-1.4.0.dmg" length="4575028" type="application/octet-stream" sparkle:edSignature="AxsC5ufEco0O5/5/t9TyXvfvQrAb+0LuJq79rGLHxaavsXKiJDP1n1J/lwE5Jgo81B6jE/Z7Wmvqi/hJwe0HDw=="/>
+    </item>
+    <item>
       <title>Version 1.3.0</title>
       <pubDate>Fri, 13 Nov 2026 21:44:31 GMT</pubDate>
       <sparkle:version>99</sparkle:version>
