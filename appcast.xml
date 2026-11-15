@@ -5,6 +5,15 @@
     <link>https://ryancooper73.github.io/amperscope-releases/appcast.xml</link>
     <language>en</language>
     <item>
+      <title>Version 1.5.0</title>
+      <pubDate>Sun, 15 Nov 2026 07:56:24 GMT</pubDate>
+      <sparkle:version>116</sparkle:version>
+      <sparkle:shortVersionString>1.5.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>New</h3><ul><li>smooth scrolling, with a time label while the chart moves</li></ul><h3>Fixed</h3><ul><li>&quot;+100 W&quot; axis label stays on one line</li></ul>]]></description>
+      <enclosure url="https://github.com/ryancooper73/amperscope-releases/releases/download/v1.5.0/Amperscope-1.5.0.dmg" length="4625209" type="application/octet-stream" sparkle:edSignature="DBJ8Ute1Wrq9UEYVE44bnkfnj3+wW52rIYwndmjGgWbqtK4Uc4VfcgIuoy2iwShHckMlif+zN6Hdy7+KS/tCDw=="/>
+    </item>
+    <item>
       <title>Version 1.4.0</title>
       <pubDate>Sat, 14 Nov 2026 20:43:16 GMT</pubDate>
       <sparkle:version>108</sparkle:version>
