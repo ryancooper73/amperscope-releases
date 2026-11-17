@@ -5,6 +5,15 @@
     <link>https://ryancooper73.github.io/amperscope-releases/appcast.xml</link>
     <language>en</language>
     <item>
+      <title>Version 1.5.3</title>
+      <pubDate>Tue, 17 Nov 2026 19:17:59 GMT</pubDate>
+      <sparkle:version>129</sparkle:version>
+      <sparkle:shortVersionString>1.5.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>Fixed</h3><ul><li>Open Amperscope brings back the open window instead of adding another</li></ul>]]></description>
+      <enclosure url="https://github.com/ryancooper73/amperscope-releases/releases/download/v1.5.3/Amperscope-1.5.3.dmg" length="4623008" type="application/octet-stream" sparkle:edSignature="L4iOoDvcGTocvt9qk5LJhBDiTkDlehjLbAyzvZWkJ2vDmWgCiImqKOdeyPRh5zJRD5VrJ085skWJg2ItbiGSDw=="/>
+    </item>
+    <item>
       <title>Version 1.5.2</title>
       <pubDate>Sun, 15 Nov 2026 14:23:27 GMT</pubDate>
       <sparkle:version>126</sparkle:version>
